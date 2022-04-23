@@ -1,0 +1,56 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #99d19c; 
+}
+
+.quem-somos {
+    background-color: #000501;
+    color: white;
+}
+
+.margin {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.margin-navbar {
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.text {
+    padding-top: 10px;
+}
+
+.destaques {
+    background-color: #73ab84;
+}
+
+.animes {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #267D40;
+}
+
+.carousel-inner {
+    max-height: 400px;
+}
+
+.carousel-inner img {
+    width: 200px;
+    height: 300px;
+    object-fit: contain;
+  }
+
+.bg-footer {
+    background-color: #2b061e;
+    color: aliceblue;
+}
+
+.margin-footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
